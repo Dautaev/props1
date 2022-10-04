@@ -1,0 +1,52 @@
+.container {
+    margin-top: 0px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.container * {
+    margin-right: 37px;
+}
+
+.name li {
+    list-style: none;
+    color: gray;
+    font-size: 18px
+}
+
+.price {
+    margin-bottom: 8px;
+}
+
+.price b{
+    font-size: 20px;
+}
+
+.price span {
+    text-decoration: line-through;
+    color: gray
+}
+
+button {
+    width: 180px;
+    height: 36px;
+    font-size: 15px;
+    background-color: #00bfff;
+    color: #fff;
+    border-radius: 5px;
+    border: 0
+}
+
+.cart3 {
+    margin-top: 38px;
+}
+
+.cart6 {
+    margin-top: 38px;
+}
+
+.cart4 {
+    margin-top: 38px;
+}

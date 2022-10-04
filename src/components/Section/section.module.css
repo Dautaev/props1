@@ -1,0 +1,13 @@
+.container {
+    width: 100%;
+    display: flex;
+    margin-top: 15px;
+}
+
+.navbar {
+    width: 30%;
+}
+
+.main {
+    width: 70%;
+}
